@@ -1,0 +1,25 @@
+﻿h1 {
+    color: red;
+    background-color: forestgreen;
+}
+
+h2 {
+    color: aquamarine;
+    background-color: black
+}
+
+p {
+    color: slategray;
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#parra1 {
+    color: greenyellow;
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input{
+    background-color:lightgreen
+}
